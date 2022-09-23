@@ -1,0 +1,12 @@
+a{
+    display: block;
+font-style: none;
+text-decoration: none;
+font-size: 200%;
+padding-left: 40px;
+}
+
+strong{
+    display: block;
+    width: 100%;
+}
